@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, I'm Brianna 👋
+# Hi, I'm Brianna 👋
 
 **Full-Stack Engineer · Mobile · AI/ML · 15 years building things that matter**
 
