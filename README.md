@@ -56,8 +56,12 @@ brianna = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=briaannaab&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briaannaab&layout=compact&theme=github_dark&hide_border=true" />
+<div align="center">
+
+<img height="160" src="https://streak-stats.demolab.com?user=briaannaab&theme=github-dark&hide_border=true" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briaannaab&theme=github_dark" />
+
+</div>
 
 </div>
 
