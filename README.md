@@ -58,6 +58,7 @@ brianna = {
 
 <img height="160" src="https://streak-stats.demolab.com?user=briaannaab&theme=github-dark&hide_border=true" />
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briaannaab&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briaannaab&theme=github_dark" />
 
 </div>
 
