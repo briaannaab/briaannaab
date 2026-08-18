@@ -6,6 +6,8 @@
 
 *Formerly @ Meta · Apple · Tesla*
 
+<a href="https://www.freelancersunion.org?utm_source=badge&utm_campaign=member&utm_content=member-stamp-200"><img src="https://assets.freelancersunion.org/static/images/member-badge.ec82f86413ea.svg" alt="Proud member of Freelancers Union" height="200" width="200" style="height:auto;max-width:200px" /></a>
+
 [![GitHub followers](https://img.shields.io/github/followers/briaannaab?style=flat&color=0d1117&labelColor=161b22&label=followers)](https://github.com/briaannaab)
 [![Profile Views](https://komarev.com/ghpvc/?username=briaannaab&style=flat&color=0d1117&labelColor=161b22)](https://github.com/briaannaab)
 
